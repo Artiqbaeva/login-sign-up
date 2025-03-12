@@ -23,7 +23,6 @@ body {
 }
 .container .registration {
   display: none;
-  margin: 10px;
 }
 #check:checked ~ .registration {
   display: block;
