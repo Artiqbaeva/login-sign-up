@@ -6,12 +6,12 @@
   font-family: "Poppins", sans-serif;
 }
 body {
-  padding: 20px;
   min-height: 100vh;
   width: 100%;
   background: #eaf829;
 }
 .container {
+  padding: 20px;
   position: absolute;
   top: 50%;
   left: 50%;
